@@ -52,6 +52,20 @@ let items = [
         type: 'Food',
         subtype: 'Fruit',
     },
+    {
+        id: 6,
+        name: 'Watermelon',
+        price: 3,
+        type: 'Food',
+        subtype: 'Vegetable',
+    },
+    {
+        id: 7,
+        name: 'Pear',
+        price: 1.49,
+        type: 'Food',
+        subtype: 'Fruit',
+    },
 ];
 
 
@@ -77,6 +91,14 @@ let itemImages = [
     {
         id: 5,
         src: "images/persimmon.jpg",
+    },
+    {
+        id: 6,
+        src: "images/watermelon.jpg"
+    },
+    {
+        id: 7,
+        src: "images/pear.jpg"
     },
 ];
 
